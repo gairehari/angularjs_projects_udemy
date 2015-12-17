@@ -1,20 +1,17 @@
-[
-  {
-    "id": 1,
-    "name": "Fairfield Location",
-    "street_address": "1200 N 5TH ST",
-    "city": "Fairfield",
-    "state": "IA",
-    "zip": "52557",
-    "phone": "123-456-7890"
-  },
-  {
-    "id": 2,
-    "name": "San Antonio Location",
-    "street_address": "2345 Ray Bon Dr",
-    "city": "San Antonio",
-    "state": "TX",
-    "zip": "78234",
-    "phone": "123-456-7890"
-  }
-]
+[{
+  "id": 1,
+  "name": "Fairfield Location",
+  "street_address": "1200 N 5TH ST",
+  "city": "Fairfield",
+  "state": "IA",
+  "zip": "52557",
+  "phone": "123-456-7890"
+}, {
+  "id": 2,
+  "name": "San Antonio Location",
+  "street_address": "2345 Ray Bon Dr",
+  "city": "San Antonio",
+  "state": "TX",
+  "zip": "78234",
+  "phone": "123-456-7890"
+}]
